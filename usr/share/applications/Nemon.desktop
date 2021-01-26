@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nemon
+Exec=AppRun %F
+Icon=Nemon
+Comment=Nemon_Huorong_Theme_By_Rullix
+Terminal=false
+Categories=Network;
